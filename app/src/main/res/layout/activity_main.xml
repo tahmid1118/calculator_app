@@ -234,7 +234,7 @@
             android:textColor="@color/textColor"
             app:cornerRadius="10dp"
             android:onClick="onOperator"
-            android:textSize="30sp"/>
+            android:textSize="30sp"
             android:text="+"/>
     </LinearLayout>
     <LinearLayout
